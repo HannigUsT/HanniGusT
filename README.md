@@ -1,4 +1,4 @@
-Prazer, meu nome é Gustavo Lopes, sou estudante de Sistemas de Informação, atualmente trabalhando como desenvolvedor backend jr. Você pode me achar nas redes sociais abaixo ou pesquisando pelo meu nickname 'HanniGusT'. Seja bem vindo ao meu github! 
+Prazer, meu nome é Gustavo Lopes, sou estudante de Sistemas de Informação, atualmente trabalhando como desenvolvedor backend jr. Você pode me achar nas redes sociais abaixo ou pesquisando por 'HanniGusT'. Seja bem vindo ao meu github! 
 
 ##
 
