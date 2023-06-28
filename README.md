@@ -1,4 +1,4 @@
-Prazer, meu nome é Gustavo Lopes, sou estudante de Sistemas de Informação, atualmente trabalhando como desenvolvedor backend jr. Você pode me achar nas redes sociais abaixo ou pesquisando por 'HanniGusT'. Seja bem vindo ao meu github! 
+Hello, my name is Gustavo Santos, also known as HanniGusT. Welcome to my profile. I'm currently pursuing a degree in Information Systems and working as a fullstack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below.
 
 <!-- ##
 
