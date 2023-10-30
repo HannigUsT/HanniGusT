@@ -1,4 +1,4 @@
-Hello, my name is Gustavo Santos, also known as HanniGusT. Welcome to my profile. I'm currently pursuing a degree in Information Systems and working as a fullstack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below.
+Hello, my name is Gustavo Santos, also known as HanniGusT. Welcome to my profile. I'm currently pursuing a degree in Information Systems and working as a fullstack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below. All my important repo's are private, dm me if you're searching for anything in specific.
 
 <!-- ##
 
