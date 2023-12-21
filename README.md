@@ -1,4 +1,4 @@
-Hello, I'm Gustavo Santos, also known as HanniGusT. Welcome to my profile. I have a Bachelor's in Information Systems and work as a full-stack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below.
+Hello, I'm Gustavo Santos, also known as HanniGusT. Welcome to my profile. I have a Bachelor's in Information Systems and i'm working as a full-stack developer at the moment. You can find me on various social media platforms by searching for my nickname or by clicking the links below.
 
 [Enterprise profile](https://github.com/GustSantosCS?tab=overview&from=2023-11-01&to=2023-11-19)
 
