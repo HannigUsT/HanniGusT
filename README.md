@@ -1,4 +1,4 @@
-Hello, my name is Gustavo Santos, also known as HanniGusT. Welcome to my profile. I'm currently pursuing a degree in Information Systems and working as a fullstack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below. All my important repo's are private, dm me if you're searching for anything in specific.
+Hello, i'm Gustavo Santos, also known as HanniGusT. Welcome to my profile. I'm currently pursuing a degree in Information Systems and working as a fullstack developer. You can find me on various social media platforms by searching for my nickname or by clicking the links below. All my important repo's are private, dm me if you're searching for anything in specific.
 
 [Enterprise profile](https://github.com/GustSantosCS?tab=overview&from=2023-11-01&to=2023-11-19)
 
@@ -24,7 +24,7 @@ Hello, my name is Gustavo Santos, also known as HanniGusT. Welcome to my profile
   <a href="https://instagram.com/hannigust" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://www.twitch.tv/hannigust" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
 <!--   <a href="https://discord.gg/HanniGusT#4264" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>  -->
-  <a href="https://www.linkedin.com/in/gustavo-lopes-1b7329160" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/hannigust" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   </div>
   
 ##
